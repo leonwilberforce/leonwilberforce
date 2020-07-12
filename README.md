@@ -9,6 +9,3 @@ Currently, I am completing my second year of Computer Science BSc (Hons) degree 
 
 - 🔭 I’m currently working on a movie list webapp using the OMDB Api
 - 🌱 I’m currently learning Node.js and Vue.js
-
----
-
