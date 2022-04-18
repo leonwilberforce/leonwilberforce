@@ -5,7 +5,4 @@
 [![Website Badge](https://img.shields.io/badge/Website-leonw.co.uk-66799e?style=flat&link=https://leonwilberforce.com)](https://leonwilberforce.com)
 
 ## About
-Currently, I am completing my second year of Computer Science BSc (Hons) degree at Teesside University. In my spare time I enjoy working on a variety of projects, some of which can be found here.
-
-- 🔭 I’m currently working on a movie list webapp using the OMDB Api
-- 🌱 I’m currently learning Node.js and Vue.js
+Currently, I am completing my final year of Computer Science BSc (Hons) degree at Teesside University. In my spare time I enjoy working on a variety of projects, some of which can be found here.
